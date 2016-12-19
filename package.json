@@ -1,0 +1,23 @@
+{
+  "name": "react-router-rainier",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.8.1"
+  },
+  "dependencies": {
+    "axios": "^0.15.3",
+    "lodash.get": "^4.4.2",
+    "react": "^15.4.1",
+    "react-addons-css-transition-group": "^15.4.1",
+    "react-css-transition-replace": "^2.1.0",
+    "react-dom": "^15.4.1",
+    "react-router": "^3.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
